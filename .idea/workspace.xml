@@ -4,20 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b9e1efa-4c71-4477-a627-313cd3fc36d4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Lab_3/Example10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab_3/Example3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab_3/Example3_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab_3/Example4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab_3/Example4_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab_3/Example5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab_3/Example5_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab_3/Example6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab_3/Example7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab_3/Example8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab_3/Example9.java" afterDir="false" />
+    <list default="true" id="1b9e1efa-4c71-4477-a627-313cd3fc36d4" name="Changes" comment="lab 3 ready">
+      <change afterPath="$PROJECT_DIR$/src/Lab_4/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_4/Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_4/Example3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_4/Example4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_4/Example5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_4/Example6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_4/Example7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_4/Example8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/Enia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/TwoThousandOneHundred.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab_3/Example2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab_3/Example2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +25,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -146,6 +145,18 @@
       <option name="presentableId" value="Default" />
       <updated>1673080931603</updated>
     </task>
+    <task id="LOCAL-00001" summary="lab 3 ready">
+      <created>1673944733997</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673944733997</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lab 3 ready" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab 3 ready" />
   </component>
 </project>
